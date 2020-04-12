@@ -9,4 +9,4 @@ This application uses an MIT License
 
 This Program is written to be similar to the reference program, SwissArmyKnifeLite.
 
-git repository: https://github.com/KaiCorpuz/SwissArmyKnife
+git repository: https://github.com/KaiCorpuz/sakV2
